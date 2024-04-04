@@ -1,0 +1,37 @@
+.root {
+    border: 1px solid rgb(128, 128, 128);
+    padding: 4px;
+}
+
+.image {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding:140px;
+}
+
+.info {
+    padding: 10px;
+}
+
+.info h2 {
+    margin-bottom: 5px;
+}
+
+.info p {
+    margin-bottom: 10px;
+}
+.btn {
+    display: block;
+    padding: 6px 40px;
+    border: 1px solid gray;
+    outline: none;
+    transition: all 0.4s ease;
+    cursor: pointer;
+    margin-top: 8px;
+    text-decoration: none;
+    color:black
+}
+.btn:hover{
+    background-color: darkgray;
+}

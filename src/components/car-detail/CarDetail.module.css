@@ -1,0 +1,14 @@
+.btn {
+    display: block;
+    padding: 6px 40px;
+    border: 1px solid gray;
+    outline: none;
+    transition: all 0.4s ease;
+    cursor: pointer;
+    margin-top: 8px;
+    text-decoration: none;
+    color:black
+}
+.btn:hover{
+    background-color: darkgray;
+}
